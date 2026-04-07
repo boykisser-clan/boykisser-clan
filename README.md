@@ -9,7 +9,6 @@
 - 🔧 Building the **Cronos** plugin suite for Purpur 1.21.x
 - 🤝 Collaborating with **Rin** at **Krud Studio**
 - ☕ Java developer passionate about server-side game infrastructure
-- 🌱 Currently working on: `CronosSecurity` `CronosHome` `CronosTpa` `CronosRTP`
 
 ---
 
