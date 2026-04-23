@@ -15,7 +15,7 @@
 ## 🐾 About
 
 > **boykisser-clan** is the open-source wing of [Krud Studio](https://github.com/boykisser-clan), focused on building free & community Minecraft server plugins.  
-> Production-grade Java plugins targeting **Paper / Purpur 1.21.x** servers — security, anti-cheat, utilities, and more.
+> Production-grade Java plugins targeting **Paper / Purpur 1.21.x** servers — security, utilities, and more.
 
 ---
 
