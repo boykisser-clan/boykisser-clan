@@ -1,11 +1,10 @@
 <div align="center">
 
-# 𝙗𝙤𝙮𝙠𝙞𝙨𝙨𝙚𝙧-𝙘𝙡𝙖𝙣
+# boykisser-clan
 
-**ᴀ ᴋʀᴜᴅ sᴛᴜᴅɪᴏ ᴏʀɢᴀɴɪᴢᴀᴛɪᴏɴ · ᴘᴀᴘᴇʀ / ᴘᴜʀᴘᴜʀ 1.21.x ᴘʟᴜɢɪɴs**
+**A Krud Studio Organization · Paper / Purpur 1.21.x Plugins**
 
 [![Team](https://img.shields.io/badge/Team-boykisser--clan-FF4DA6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boykisser-clan)
-[![Founder](https://img.shields.io/badge/Founder-rinquicklyofficial-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rinquicklyofficial)
 [![Platform](https://img.shields.io/badge/Platform-Purpur%201.21.x-7B2FBE?style=for-the-badge&logo=minecraft&logoColor=white)](https://purpurmc.org)
 [![Cambodia](https://img.shields.io/badge/Based%20In-Cambodia%20🇰🇭-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Cambodia)
 
@@ -13,14 +12,14 @@
 
 ---
 
-## 🐾 ᴀʙᴏᴜᴛ
+## 🐾 About
 
-> **boykisser-clan** is the open-source wing of [Krud Studio](https://github.com/rinquicklyofficial), focused on building free & community Minecraft server plugins.  
+> **boykisser-clan** is the open-source wing of [Krud Studio](https://github.com/boykisser-clan), focused on building free & community Minecraft server plugins.  
 > Production-grade Java plugins targeting **Paper / Purpur 1.21.x** servers — security, anti-cheat, utilities, and more.
 
 ---
 
-## 🚀 ᴘʟᴜɢɪɴs
+## 🚀 Plugins
 
 | Plugin | Description | Status |
 |--------|-------------|--------|
@@ -30,7 +29,7 @@
 
 ---
 
-## 🛡️ ᴋʀᴜᴅ sᴛᴜᴅɪᴏ ᴇᴄᴏsʏsᴛᴇᴍ
+## 🛡️ Krud Studio Ecosystem
 
 Looking for premium plugins? Check out **Krud Studio** for the full suite:
 
@@ -46,7 +45,7 @@ Looking for premium plugins? Check out **Krud Studio** for the full suite:
 
 ---
 
-## 🧰 ᴛᴇᴄʜ sᴛᴀᴄᴋ
+## 🧰 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
@@ -57,14 +56,14 @@ Looking for premium plugins? Check out **Krud Studio** for the full suite:
 
 ---
 
-## 📊 sᴛᴀᴛs
+## 📊 Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinquicklyofficial&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/rinquicklyofficial)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinquicklyofficial&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/rinquicklyofficial)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boykisser-clan&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/boykisser-clan)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boykisser-clan&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/boykisser-clan)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rinquicklyofficial&color=FF4DA6&style=flat-square&label=Profile+Views)](https://github.com/rinquicklyofficial)
+[![Profile Views](https://komarev.com/ghpvc/?username=boykisser-clan&color=FF4DA6&style=flat-square&label=Profile+Views)](https://github.com/boykisser-clan)
 
 </div>
 
@@ -72,6 +71,6 @@ Looking for premium plugins? Check out **Krud Studio** for the full suite:
 
 <div align="center">
 
-**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ [ʀɪɴ](https://github.com/rinquicklyofficial) · ᴋʀᴜᴅ sᴛᴜᴅɪᴏ 🇰🇭**
+**Made with ❤️ by [Rin](https://github.com/boykisser-clan) · Krud Studio 🇰🇭**
 
 </div>
